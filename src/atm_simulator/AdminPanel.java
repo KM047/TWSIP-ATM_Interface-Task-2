@@ -264,14 +264,7 @@ public class AdminPanel extends JFrame implements ActionListener  {
 						
 					}
 
-                    
-                    
-                    
-
-
                 }
-
-
 
             } catch (Exception ex) {
                 
