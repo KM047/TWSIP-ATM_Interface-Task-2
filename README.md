@@ -42,7 +42,7 @@ Before using this ATM interface, make sure to set up your database with the requ
 ![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/89203d20-32f5-431e-85e7-84e86d1c8805)
 
 ## Withdraw Panel - 
-![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/4e901f3f-853f-4132-9be8-168f354cc617)
+![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/c124801a-bb87-497a-91bf-7023a13079ec)
 
 ## Pin Change - 
 ![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/95bfb532-bb4c-451b-8f20-733fa6382044)
