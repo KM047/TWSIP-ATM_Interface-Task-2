@@ -28,7 +28,7 @@ public class Login extends JFrame implements ActionListener {
 
         setLocation(300,200);
 
-        setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
 
 
         setTitle("Login Panel");
@@ -168,19 +168,12 @@ public class Login extends JFrame implements ActionListener {
                     	
                      rSet	= sqlop.stamt.executeQuery(query);
                      
-//                     System.out.println();
-                   
-                     
-//                     ResultSet re2 = sqlop.stamt.executeQuery("SELECT user_name FROM users WHERE accNumber = '"+ AccNum +"'");
-                     
-//                     re2.next();
                      
                      
                      if (rSet.next()) {
 						
                     	 String name = rSet.getString("user_name");
                     	 
-//                    	 System.out.println(name);
                          
                     	 setVisible(false);
                     	 
@@ -224,7 +217,6 @@ public class Login extends JFrame implements ActionListener {
 			}
             
          
-//            System.out.println(ch);
         }
 
     }
