@@ -30,6 +30,24 @@ Welcome to the ATM Interface with Database Connectivity repository! This Java-ba
 
 Before using this ATM interface, make sure to set up your database with the required schema. You can find the database schema and SQL scripts in the [database](/database) directory.
 
+
+## Screenshot
+## Login -
+![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/5db39520-3080-4eba-8836-5243f6ecff4e)
+
+## User Panel -
+![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/8620b46e-094e-44a8-b2b4-95e8fc8c42b5)
+
+## Deposit Panel -
+![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/89203d20-32f5-431e-85e7-84e86d1c8805)
+
+## Withdraw Panel - 
+![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/c124801a-bb87-497a-91bf-7023a13079ec)
+
+## Pin Change - 
+![image](https://github.com/KM9110/TWSIP-ATM_Interface-Task-2/assets/87354852/95bfb532-bb4c-451b-8f20-733fa6382044)
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit pull requests or open issues. Whether it's improving the codebase, enhancing the user interface, or adding new features, your contributions will be appreciated.
