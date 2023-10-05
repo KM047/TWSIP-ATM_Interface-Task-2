@@ -151,13 +151,7 @@ public class AdminPanel extends JFrame implements ActionListener  {
         pack();
         setLocationRelativeTo(null);
 
-
-
     }
-    
-
-    
-
 
     public static void main(String[] args) {
         
@@ -165,21 +159,7 @@ public class AdminPanel extends JFrame implements ActionListener  {
 
     }
 
-    private JButton btnAddUser;
-    private JButton btnReset;
-    private JLabel jLabel1;
-    private JLabel jLabel2;
-    private JLabel jLabel3;
-    private JLabel jLabel4;
-    private JLabel jLabel5;
-    private JLabel jLabel6;
-    private JTextField tfMobileUser;
-    private JTextField tfBalance;
-    private JTextField tfAdAcnum;
-    private JTextField tfAdname;
-    private JTextField tfAdpin;
-    
-    
+  
     
     public void ClearScreen() {
     	
@@ -290,4 +270,22 @@ public class AdminPanel extends JFrame implements ActionListener  {
 
 
     }
+    
+    
+    private JButton btnAddUser;
+    private JButton btnReset;
+    private JLabel jLabel1;
+    private JLabel jLabel2;
+    private JLabel jLabel3;
+    private JLabel jLabel4;
+    private JLabel jLabel5;
+    private JLabel jLabel6;
+    private JTextField tfMobileUser;
+    private JTextField tfBalance;
+    private JTextField tfAdAcnum;
+    private JTextField tfAdname;
+    private JTextField tfAdpin;
+    
+    
+    
 }

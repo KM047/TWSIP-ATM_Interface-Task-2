@@ -180,16 +180,12 @@ public class Login extends JFrame implements ActionListener {
                     	 new UserPanel(name, AccNum).setVisible(true);;
                     	 
                     	 
-                     }
+                     }  
                      
                      else {
 						
                     	 JOptionPane.showMessageDialog(this, "Incorrect Account Number or Pin. ");
 					}
-                     
-                     
-                    	
-                    	
 						
 					} catch (Exception e2) {
 						// TODO: handle exception
@@ -198,7 +194,6 @@ public class Login extends JFrame implements ActionListener {
 
                 }
             
-
         }
 
         else if(e.getSource() == btnClear){
